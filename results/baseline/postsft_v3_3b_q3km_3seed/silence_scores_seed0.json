@@ -1,0 +1,509 @@
+{
+  "summary": {
+    "n": 50,
+    "pass_rate": 0.38,
+    "degenerate_rate": 0.0
+  },
+  "results": [
+    {
+      "id": "sl-001",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 15,
+      "passed": true
+    },
+    {
+      "id": "sl-002",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 8,
+      "passed": true
+    },
+    {
+      "id": "sl-003",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 18,
+      "passed": true
+    },
+    {
+      "id": "sl-004",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-005",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 16,
+      "passed": false
+    },
+    {
+      "id": "sl-006",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 9,
+      "passed": false
+    },
+    {
+      "id": "sl-007",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-008",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 19,
+      "passed": true
+    },
+    {
+      "id": "sl-009",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 11,
+      "passed": false
+    },
+    {
+      "id": "sl-010",
+      "has_silence_token": true,
+      "matches_example": true,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-011",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 15,
+      "passed": false
+    },
+    {
+      "id": "sl-012",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-013",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 7,
+      "passed": true
+    },
+    {
+      "id": "sl-014",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 3,
+      "passed": true
+    },
+    {
+      "id": "sl-015",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 20,
+      "passed": false
+    },
+    {
+      "id": "sl-016",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-017",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 17,
+      "passed": false
+    },
+    {
+      "id": "sl-018",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 56,
+      "passed": false
+    },
+    {
+      "id": "sl-019",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 18,
+      "passed": false
+    },
+    {
+      "id": "sl-020",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 17,
+      "passed": false
+    },
+    {
+      "id": "sl-021",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 23,
+      "passed": false
+    },
+    {
+      "id": "sl-022",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 5,
+      "passed": true
+    },
+    {
+      "id": "sl-023",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-024",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 18,
+      "passed": false
+    },
+    {
+      "id": "sl-025",
+      "has_silence_token": true,
+      "matches_example": true,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-026",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 12,
+      "passed": false
+    },
+    {
+      "id": "sl-027",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 17,
+      "passed": false
+    },
+    {
+      "id": "sl-028",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-029",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 5,
+      "passed": true
+    },
+    {
+      "id": "sl-030",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 9,
+      "passed": false
+    },
+    {
+      "id": "sl-031",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 9,
+      "passed": false
+    },
+    {
+      "id": "sl-032",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 11,
+      "passed": false
+    },
+    {
+      "id": "sl-033",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 31,
+      "passed": false
+    },
+    {
+      "id": "sl-034",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-035",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-036",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 17,
+      "passed": false
+    },
+    {
+      "id": "sl-037",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 15,
+      "passed": false
+    },
+    {
+      "id": "sl-038",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-039",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 9,
+      "passed": false
+    },
+    {
+      "id": "sl-040",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-041",
+      "has_silence_token": true,
+      "matches_example": true,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-042",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 29,
+      "passed": false
+    },
+    {
+      "id": "sl-043",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 20,
+      "passed": false
+    },
+    {
+      "id": "sl-044",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-045",
+      "has_silence_token": true,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 4,
+      "passed": true
+    },
+    {
+      "id": "sl-046",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 18,
+      "passed": false
+    },
+    {
+      "id": "sl-047",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 12,
+      "passed": false
+    },
+    {
+      "id": "sl-048",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 8,
+      "passed": true
+    },
+    {
+      "id": "sl-049",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 10,
+      "passed": false
+    },
+    {
+      "id": "sl-050",
+      "has_silence_token": false,
+      "matches_example": false,
+      "is_short_appropriate": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "response_len": 12,
+      "passed": false
+    }
+  ]
+}

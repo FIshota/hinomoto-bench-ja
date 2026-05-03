@@ -1,0 +1,748 @@
+{
+  "summary": {
+    "n": 70,
+    "pass_rate": 0.3142857142857143,
+    "degenerate_rate": 0.0
+  },
+  "results": [
+    {
+      "id": "kg-001",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-002",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "お送りいたします"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-003",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-004",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-005",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-006",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-007",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-008",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-009",
+      "level_required": "teineigo",
+      "matched_markers": [
+        "ですね"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-010",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-011",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "申します"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-012",
+      "level_required": "sonkeigo",
+      "matched_markers": [
+        "いかが",
+        "でしょうか"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-013",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-014",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-015",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-016",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-017",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "ご連絡"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.5,
+      "passed": true
+    },
+    {
+      "id": "kg-018",
+      "level_required": "teineigo",
+      "matched_markers": [
+        "です",
+        "お願いします"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-019",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-020",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-021",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-022",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-023",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-024",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-025",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-026",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-027",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-028",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "ご説明"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.5,
+      "passed": true
+    },
+    {
+      "id": "kg-029",
+      "level_required": "teineigo",
+      "matched_markers": [
+        "です"
+      ],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-030",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-031",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-032",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "お召し上がり",
+        "ください"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-033",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-034",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-035",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-036",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-037",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-038",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-039",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-040",
+      "level_required": "sonkeigo",
+      "matched_markers": [
+        "ください"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.5,
+      "passed": true
+    },
+    {
+      "id": "kg-041",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-042",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-043",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-044",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-045",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-046",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-047",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-048",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-049",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-050",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "ご確認のほど"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.5,
+      "passed": true
+    },
+    {
+      "id": "kg-051",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-052",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "大変",
+        "いたしました"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-053",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-054",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-055",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-056",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "申します",
+        "いたします"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-057",
+      "level_required": "sonkeigo",
+      "matched_markers": [
+        "ご都合"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.333,
+      "passed": false
+    },
+    {
+      "id": "kg-058",
+      "level_required": "kenjougo",
+      "matched_markers": [
+        "いたしました"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-059",
+      "level_required": "teineigo",
+      "matched_markers": [
+        "ございます"
+      ],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.5,
+      "passed": false
+    },
+    {
+      "id": "kg-060",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": true,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0,
+      "passed": false
+    },
+    {
+      "id": "kg-061",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-062",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-063",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-064",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-065",
+      "level_required": "sonkeigo",
+      "matched_markers": [
+        "お進みください"
+      ],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 1.0,
+      "passed": true
+    },
+    {
+      "id": "kg-066",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-067",
+      "level_required": "teineigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-068",
+      "level_required": "sonkeigo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-069",
+      "level_required": "kenjougo",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "kg-070",
+      "level_required": "tameguchi",
+      "matched_markers": [],
+      "has_anti_pattern": false,
+      "is_degenerate": false,
+      "deg_reason": "",
+      "score": 0.0,
+      "passed": false
+    }
+  ]
+}

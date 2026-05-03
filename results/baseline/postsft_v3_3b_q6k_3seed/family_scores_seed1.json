@@ -1,0 +1,1110 @@
+{
+  "summary": {
+    "n": 110,
+    "mean_total": 7.91,
+    "max_possible": 12,
+    "degenerate_rate": 0.0
+  },
+  "results": [
+    {
+      "id": "fam-001",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-002",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-003",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-004",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-005",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-006",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-007",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-008",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-009",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-010",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 11,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-011",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-012",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-013",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-014",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-015",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-016",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-017",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-018",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-019",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-020",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-021",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-022",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-023",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-024",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-025",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-026",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-027",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-028",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-029",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-030",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-031",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-032",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 3,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-033",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-034",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-035",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-036",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-037",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-038",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-039",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 11,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-040",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-041",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 0,
+      "total": 5,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-042",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 2,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-043",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-044",
+      "empathy": 0,
+      "appropriateness": 2,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 4,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-045",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-046",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-047",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 3,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-048",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-049",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-050",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-051",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-052",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-053",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-054",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-055",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-056",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-057",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-058",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-059",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-060",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-061",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-062",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-063",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-064",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-065",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-066",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-067",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-068",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-069",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-070",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-071",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-072",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-073",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-074",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-075",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-076",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-077",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-078",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-079",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-080",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-081",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-082",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 2,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-083",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-084",
+      "empathy": 0,
+      "appropriateness": 2,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 4,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-085",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-086",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-087",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-088",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-089",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-090",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-091",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-092",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-093",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-094",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-095",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-096",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 1,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-097",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-098",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-099",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 1,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-100",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-101",
+      "empathy": 3,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 9,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-102",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-103",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 1,
+      "warmth": 2,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-104",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 6,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-105",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 3,
+      "total": 10,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-106",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 2,
+      "total": 8,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-107",
+      "empathy": 2,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 0,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-108",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-109",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    },
+    {
+      "id": "fam-110",
+      "empathy": 1,
+      "appropriateness": 3,
+      "naturalness": 2,
+      "warmth": 1,
+      "total": 7,
+      "is_degenerate": false,
+      "method": "heuristic_v2"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "corpus": "/home/ryu/projects/hinomoto-model/data/tokenizer_corpus/all_v6_balanced.txt",
+  "n": 8,
+  "corpus_lines": 61357,
+  "corpus_grams": 15313991,
+  "splits": {
+    "family": {
+      "n_questions": 110,
+      "mean_leak_ratio": 0.1591407157002342,
+      "max_leak_ratio": 0.8125,
+      "n_leaks_above_30pct": 24,
+      "leaks": [
+        {
+          "id": "fam-001",
+          "ratio": 0.7777777777777778,
+          "n_hits": 21,
+          "n_grams": 27
+        },
+        {
+          "id": "fam-002",
+          "ratio": 0.6666666666666666,
+          "n_hits": 12,
+          "n_grams": 18
+        },
+        {
+          "id": "fam-003",
+          "ratio": 0.6666666666666666,
+          "n_hits": 12,
+          "n_grams": 18
+        },
+        {
+          "id": "fam-004",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "fam-005",
+          "ratio": 0.7142857142857143,
+          "n_hits": 15,
+          "n_grams": 21
+        },
+        {
+          "id": "fam-006",
+          "ratio": 0.7142857142857143,
+          "n_hits": 15,
+          "n_grams": 21
+        },
+        {
+          "id": "fam-007",
+          "ratio": 0.5714285714285714,
+          "n_hits": 8,
+          "n_grams": 14
+        },
+        {
+          "id": "fam-008",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "fam-009",
+          "ratio": 0.7692307692307693,
+          "n_hits": 20,
+          "n_grams": 26
+        },
+        {
+          "id": "fam-010",
+          "ratio": 0.7777777777777778,
+          "n_hits": 21,
+          "n_grams": 27
+        },
+        {
+          "id": "fam-011",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "fam-012",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "fam-013",
+          "ratio": 0.5,
+          "n_hits": 6,
+          "n_grams": 12
+        },
+        {
+          "id": "fam-014",
+          "ratio": 0.75,
+          "n_hits": 18,
+          "n_grams": 24
+        },
+        {
+          "id": "fam-015",
+          "ratio": 0.6470588235294118,
+          "n_hits": 11,
+          "n_grams": 17
+        },
+        {
+          "id": "fam-016",
+          "ratio": 0.7391304347826086,
+          "n_hits": 17,
+          "n_grams": 23
+        },
+        {
+          "id": "fam-018",
+          "ratio": 0.8064516129032258,
+          "n_hits": 25,
+          "n_grams": 31
+        },
+        {
+          "id": "fam-019",
+          "ratio": 0.7272727272727273,
+          "n_hits": 16,
+          "n_grams": 22
+        },
+        {
+          "id": "fam-020",
+          "ratio": 0.6,
+          "n_hits": 9,
+          "n_grams": 15
+        },
+        {
+          "id": "fam-021",
+          "ratio": 0.45454545454545453,
+          "n_hits": 5,
+          "n_grams": 11
+        }
+      ]
+    },
+    "keigo": {
+      "n_questions": 70,
+      "mean_leak_ratio": 0.11832864139452222,
+      "max_leak_ratio": 0.6842105263157895,
+      "n_leaks_above_30pct": 13,
+      "leaks": [
+        {
+          "id": "kg-001",
+          "ratio": 0.5714285714285714,
+          "n_hits": 8,
+          "n_grams": 14
+        },
+        {
+          "id": "kg-002",
+          "ratio": 0.3333333333333333,
+          "n_hits": 3,
+          "n_grams": 9
+        },
+        {
+          "id": "kg-003",
+          "ratio": 0.4,
+          "n_hits": 4,
+          "n_grams": 10
+        },
+        {
+          "id": "kg-005",
+          "ratio": 0.5384615384615384,
+          "n_hits": 7,
+          "n_grams": 13
+        },
+        {
+          "id": "kg-007",
+          "ratio": 0.6842105263157895,
+          "n_hits": 13,
+          "n_grams": 19
+        },
+        {
+          "id": "kg-008",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "kg-009",
+          "ratio": 0.5,
+          "n_hits": 6,
+          "n_grams": 12
+        },
+        {
+          "id": "kg-010",
+          "ratio": 0.5384615384615384,
+          "n_hits": 7,
+          "n_grams": 13
+        },
+        {
+          "id": "kg-011",
+          "ratio": 0.5384615384615384,
+          "n_hits": 7,
+          "n_grams": 13
+        },
+        {
+          "id": "kg-012",
+          "ratio": 0.45454545454545453,
+          "n_hits": 5,
+          "n_grams": 11
+        },
+        {
+          "id": "kg-013",
+          "ratio": 0.45454545454545453,
+          "n_hits": 5,
+          "n_grams": 11
+        },
+        {
+          "id": "kg-014",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "kg-015",
+          "ratio": 0.45454545454545453,
+          "n_hits": 5,
+          "n_grams": 11
+        }
+      ]
+    },
+    "silence": {
+      "n_questions": 50,
+      "mean_leak_ratio": 0.14176725682298438,
+      "max_leak_ratio": 0.7857142857142857,
+      "n_leaks_above_30pct": 10,
+      "leaks": [
+        {
+          "id": "sl-001",
+          "ratio": 0.7222222222222222,
+          "n_hits": 13,
+          "n_grams": 18
+        },
+        {
+          "id": "sl-002",
+          "ratio": 0.7,
+          "n_hits": 14,
+          "n_grams": 20
+        },
+        {
+          "id": "sl-003",
+          "ratio": 0.7142857142857143,
+          "n_hits": 15,
+          "n_grams": 21
+        },
+        {
+          "id": "sl-004",
+          "ratio": 0.6666666666666666,
+          "n_hits": 12,
+          "n_grams": 18
+        },
+        {
+          "id": "sl-005",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "sl-006",
+          "ratio": 0.7857142857142857,
+          "n_hits": 22,
+          "n_grams": 28
+        },
+        {
+          "id": "sl-007",
+          "ratio": 0.625,
+          "n_hits": 10,
+          "n_grams": 16
+        },
+        {
+          "id": "sl-008",
+          "ratio": 0.7272727272727273,
+          "n_hits": 16,
+          "n_grams": 22
+        },
+        {
+          "id": "sl-009",
+          "ratio": 0.6470588235294118,
+          "n_hits": 11,
+          "n_grams": 17
+        },
+        {
+          "id": "sl-010",
+          "ratio": 0.7272727272727273,
+          "n_hits": 16,
+          "n_grams": 22
+        }
+      ]
+    }
+  }
+}
