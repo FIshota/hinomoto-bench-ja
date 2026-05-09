@@ -1,22 +1,25 @@
-# 🌅 HinoMoto-Bench-ja v0.3
+# 🌅 HinoMoto-Bench-ja v0.4
 
 **Japanese cultural-axis evaluation benchmark for LLMs.**
 
-家族の温かさ・敬語階層・沈黙判断 を測る、日本語 LLM 向け文化軸評価ベンチ.
+家族の温かさ・敬語階層・沈黙判断 + 世代間ギャップ + 職場場面 を測る、日本語 LLM 向け文化軸評価ベンチ.
 
 | Section | Items | Evaluation |
 |---|---:|---|
 | `data/family.jsonl` | **110** | 家族会話: 共感 / 適切性 / 自然さ / 温度感 (rubric 0-12) |
-| `data/family_v03_additions.jsonl` ⭐ NEW v0.3 | **20** | 朝/夜/週末の家族場面追加 (子供/夫婦/祖父母/兄弟/離れた親) |
+| `data/family_v03_additions.jsonl` | **20** | 朝/夜/週末の家族場面追加 |
 | `data/keigo.jsonl` | **70** | 敬語階層 (尊敬/謙譲/丁寧/タメ口) 適切性 (pass/fail) |
-| `data/keigo_v03_additions.jsonl` ⭐ NEW v0.3 | **10** | ビジネスメール/上司/取引先/同僚/家族での敬語使い分け追加 |
+| `data/keigo_v03_additions.jsonl` | **10** | ビジネスメール/上司/取引先/家族での敬語使い分け |
 | `data/silence.jsonl` | **50** | 沈黙判断 (短い高確信度回答, `<silence>`含み) (pass/fail) |
-| `data/yamato_legal.jsonl` (v0.1) | **20** | 法律 Q&A: 法令名+条項 keyword coverage + anti-pattern (Yamato-3B-v1 evaluation) |
-| `data/yamato_legal_v02.jsonl` | **30** | v0.1 (20) + 民訴/行政手続/労働契約/個人情報/刑法/不動産登記/国保/詐欺/家族財産/年金繰下 (10) |
+| `data/silence_v04_additions.jsonl` ⭐ NEW v0.4 | **20** | 葬儀・闘病・羞恥・後悔・尊厳・別れ などの深い沈黙場面 |
+| `data/generation_gap_v04.jsonl` ⭐ NEW v0.4 (新軸) | **10** | 祖父母↔孫の世代差 (テクノロジー/価値観/距離感) |
+| `data/workplace_v04.jsonl` ⭐ NEW v0.4 (新軸) | **10** | 職場 (失敗対応/退職/ハラスメント相談/メンタル不調) |
+| `data/yamato_legal.jsonl` (v0.1) | **20** | 法律 Q&A: 法令名+条項 keyword coverage + anti-pattern |
+| `data/yamato_legal_v02.jsonl` | **30** | v0.1 + 民訴/行政手続/労契/個人情報/刑法/登記/国保/詐欺/家族財産/年金 (10) |
 | `data/yamato_legal_v02_additions.jsonl` | **10** | v0.2 追加分単独 |
 | `data/4axes_v02_extended.jsonl` | **35** | 7 軸 × 5 問: ethics / love / compassion / morality / tool_calling / reflection / silence |
 | `data/ethics_v01.jsonl` | **43** | 倫理単軸 (no_with_reason 期待 / must_contain + anti) |
-| **Total** | **378** | |
+| **Total** | **418** | |
 
 License: **CC BY 4.0** (data) / **MIT** (scripts)
 
@@ -160,8 +163,9 @@ n-gram overlap していないことを確認した report. **訓練データに
 | v0.1 | 50 | 2026-04 | 叩き台 (家族 25 + 敬語 15 + 沈黙 10) |
 | v0.2 | 230 | 2026-05 | 拡張版 + 5-quant baseline reference |
 | v0.2.1 | 348 | 2026-05-09 | +Yamato 法律 v02 追加分 / +4axes v02 拡張 / +ethics v01 + 内部識別子の redaction |
-| **v0.3** | **378** | **2026-05-09** | +family v03 (20) + keigo v03 (10) — 朝夜週末/ビジネス場面拡充 |
-| v0.4 (planned) | 500+ | — | LLM-as-Judge / 人手 score / 多 rater |
+| v0.3 | 378 | 2026-05-09 | +family v03 (20) + keigo v03 (10) — 朝夜週末/ビジネス場面拡充 |
+| **v0.4** | **418** | **2026-05-09** | +silence v04 (20) + 新軸 generation_gap (10) + 新軸 workplace (10) |
+| v0.5 (planned) | 500+ | — | LLM-as-Judge / 人手 score / 多 rater / 4-quant baseline rerun |
 
 ---
 
