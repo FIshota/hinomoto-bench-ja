@@ -9,7 +9,12 @@
 | `data/family.jsonl` | **110** | 家族会話: 共感 / 適切性 / 自然さ / 温度感 (rubric 0-12) |
 | `data/keigo.jsonl` | **70** | 敬語階層 (尊敬/謙譲/丁寧/タメ口) 適切性 (pass/fail) |
 | `data/silence.jsonl` | **50** | 沈黙判断 (短い高確信度回答, `<silence>`含み) (pass/fail) |
-| **Total** | **230** | |
+| `data/yamato_legal.jsonl` (v0.1) | **20** | 法律 Q&A: 法令名+条項 keyword coverage + anti-pattern (Yamato-3B-v1 evaluation) |
+| `data/yamato_legal_v02.jsonl` | **30** | v0.1 (20) + 民訴/行政手続/労働契約/個人情報/刑法/不動産登記/国保/詐欺/家族財産/年金繰下 (10) |
+| `data/yamato_legal_v02_additions.jsonl` ⭐ NEW | **10** | v0.2 追加分単独 (民訴/行政手続/労契/個人情報/刑法/登記/国保/詐欺/家族財産/年金) |
+| `data/4axes_v02_extended.jsonl` ⭐ NEW | **35** | 7 軸 × 5 問: ethics / love / compassion / morality / tool_calling / reflection / silence |
+| `data/ethics_v01.jsonl` ⭐ NEW | **43** | 倫理単軸 (no_with_reason 期待 / must_contain + anti) |
+| **Total** | **348** | |
 
 License: **CC BY 4.0** (data) / **MIT** (scripts)
 
@@ -104,6 +109,8 @@ Score JSON example:
 `results/baseline/` に **HinoMoto-Sarashina2.2-3B-sft_v3** (4-quant × 3-seed × 3-axis = 45 score files) を同梱.
 量子化と task の関係を示す重要な reference データ.
 
+> Note: baseline モデルは内部 SFT 名を学習していたため、`*_responses_seed*.jsonl` 中の出力で内部識別子に該当する箇所は `私` に置換しています (出力件数・採点には影響なし).
+
 ### Summary table (3-seed mean ± std, n=各 task)
 
 | Variant | BPW | family /12 | keigo % | silence % |
@@ -149,7 +156,8 @@ n-gram overlap していないことを確認した report. **訓練データに
 | Version | Items | Date | Notes |
 |---|---:|---|---|
 | v0.1 | 50 | 2026-04 | 叩き台 (家族 25 + 敬語 15 + 沈黙 10) |
-| v0.2 | **230** | 2026-05 | 拡張版 + 5-quant baseline reference |
+| v0.2 | 230 | 2026-05 | 拡張版 + 5-quant baseline reference |
+| **v0.2.1** | **348** | 2026-05 | +Yamato 法律 v02 追加分 / +4axes v02 拡張 / +ethics v01 + 内部識別子の redaction |
 | v0.3 (planned) | 500+ | — | LLM-as-Judge / 人手 score / 多 rater |
 
 ---
@@ -174,6 +182,10 @@ n-gram overlap していないことを確認した report. **訓練データに
 ## Related
 
 - [HinoMoto-3B sft_v3 GGUF (4 quants)](https://huggingface.co/FiShota/sarashina2.2-3b-sft-v3-Q4_K_M-gguf) — multi-quant baseline
+- [HinoMoto-3B sft_v4 GGUF (4 quants)](https://huggingface.co/FiShota/sarashina2.2-3b-sft-v4-gguf) — sft_v3 + 11% NLI replay
+- [HinoMoto-3B sft_v4-DPO GGUF](https://huggingface.co/FiShota/sarashina2.2-3b-sft-v4-dpo-gguf) — sft_v4 + DPO 108 pairs (2026-05)
+- [Yamato-3B-v1 legal GGUF](https://huggingface.co/FiShota/yamato-3b-v1-legal-gguf) — 法律/行政 specialist sister model (50 SFT samples)
+- **[Yamato-3B-v2 legal GGUF](https://huggingface.co/FiShota/yamato-3b-v2-legal-gguf)** ⭐ — Yamato v2 (60 samples + 10 new legal domains, 2026-05 latest)
 - [HinoMoto-100M v15 (research)](https://huggingface.co/FiShota/hinomoto-100m-v15-wsd-zloss-ema)
 - [HinoMoto-100M v12 (research)](https://huggingface.co/FiShota/hinomoto-100m-v12-wsd-zloss-seed2)
 

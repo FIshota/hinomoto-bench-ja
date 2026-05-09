@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+results/*.json
+*.log
+.DS_Store
+
+# Internal-only dev scripts (assistant-persona system prompts, not for public release)
+scripts/bench_ai_*.py
+scripts/bench_sft_v4_vs_v5.py
+data/ai_*.jsonl
