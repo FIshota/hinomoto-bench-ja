@@ -1,28 +1,48 @@
-# 🌅 HinoMoto-Bench-ja v0.5
+# 🌅 HinoMoto-Bench-ja v0.6
 
 **Japanese cultural-axis evaluation benchmark for LLMs.**
 
-家族・敬語・沈黙 + 世代間ギャップ + 職場 + **思いやり / 地方文化 / ニュアンス** を測る、日本語 LLM 向け文化軸評価ベンチ.
+家族・敬語・沈黙 + 世代間ギャップ + 職場 + 思いやり / 地方文化 / ニュアンス を測る、日本語 LLM 向け文化軸評価ベンチ. **v0.6 で合成データ拡張により 8 軸合計 692 items (前比 +239) に拡大**.
+
+## ⭐ v0.6 highlights (2026-05-11)
+
+- **8 軸合計 692 items** (v0.5 比 +239 items / +52.8%)
+- 軸間バランス改善: local_culture / nuance / generation_gap / workplace が 10 → 40+ items に
+- 合成生成 (HinoMoto-3B-Q4 self-generation) + 自動 firewall + manual audit pass
+- 詳細生成方法: [docs/SYNTH_V06_GENERATION.md](docs/SYNTH_V06_GENERATION.md)
+
+| Axis | v0.5 | **v0.6 total** | (内訳) |
+|---|---:|---:|---|
+| family | 130 | **225** | seed 130 + synth 95 |
+| keigo | 80 | **107** | seed 80 + synth 27 |
+| silence | 70 | **134** | seed 70 + synth 64 |
+| compassion | 15 | **62** | seed 15 + synth 47 |
+| local_culture | 10 | **42** | seed 10 + synth 32 |
+| nuance | 10 | **40** | seed 10 + synth 30 |
+| generation_gap | 10 | **40** | seed 10 + synth 30 |
+| workplace | 10 | **42** | seed 10 + synth 32 |
+| **計 (8 文化軸)** | **335** | **692** | seed 335 + synth 357 |
+
+## v0.6 ファイル構成
 
 | Section | Items | Evaluation |
 |---|---:|---|
-| `data/family.jsonl` | **110** | 家族会話: 共感 / 適切性 / 自然さ / 温度感 (rubric 0-12) |
-| `data/family_v03_additions.jsonl` | **20** | 朝/夜/週末の家族場面追加 |
-| `data/keigo.jsonl` | **70** | 敬語階層 (尊敬/謙譲/丁寧/タメ口) 適切性 (pass/fail) |
-| `data/keigo_v03_additions.jsonl` | **10** | ビジネスメール/上司/取引先/家族での敬語使い分け |
-| `data/silence.jsonl` | **50** | 沈黙判断 (短い高確信度回答, `<silence>`含み) (pass/fail) |
-| `data/silence_v04_additions.jsonl` | **20** | 葬儀・闘病・羞恥・後悔・尊厳・別れ などの深い沈黙場面 |
-| `data/generation_gap_v04.jsonl` (新軸) | **10** | 祖父母↔孫の世代差 (テクノロジー/価値観/距離感) |
-| `data/workplace_v04.jsonl` (新軸) | **10** | 職場 (失敗対応/退職/ハラスメント相談/メンタル不調) |
-| `data/compassion_v05.jsonl` ⭐ NEW v0.5 (新軸) | **15** | 思いやり (電車/職場/弁当/葬儀/障害者支援/離婚友人 etc) |
-| `data/local_culture_v05.jsonl` ⭐ NEW v0.5 (新軸) | **10** | 地方文化 (京都の婉曲/方言/お中元/結婚式スピーチ/茶道 etc) |
-| `data/nuance_v05.jsonl` ⭐ NEW v0.5 (新軸) | **10** | 日本語のニュアンス (結構です / 考えておきます / お疲れ vs ご苦労 etc) |
-| `data/yamato_legal.jsonl` (v0.1) | **20** | 法律 Q&A: 法令名+条項 keyword coverage + anti-pattern |
-| `data/yamato_legal_v02.jsonl` | **30** | v0.1 + 民訴/行政手続/労契/個人情報/刑法/登記/国保/詐欺/家族財産/年金 (10) |
-| `data/yamato_legal_v02_additions.jsonl` | **10** | v0.2 追加分単独 |
-| `data/4axes_v02_extended.jsonl` | **35** | 7 軸 × 5 問: ethics / love / compassion / morality / tool_calling / reflection / silence |
-| `data/ethics_v01.jsonl` | **43** | 倫理単軸 (no_with_reason 期待 / must_contain + anti) |
-| **Total** | **453** | |
+| `data/bench_v06_full.jsonl` ⭐ NEW v0.6 (統合) | **692** | 8 軸統合マスター (axis フィールドでフィルタ可) |
+| `data/bench_v06_<axis>.jsonl` × 8 | — | 軸ごと分割版 (drop-in 評価用) |
+| `data/bench_v06_additions.jsonl` ⭐ NEW v0.6 | **357** | v0.5 以降に追加された合成生成分のみ (audit clean 済) |
+| `data/family.jsonl` + `_v03_additions.jsonl` | 130 | 家族会話 seed (v0.1 + v0.3) |
+| `data/keigo.jsonl` + `_v03_additions.jsonl` | 80 | 敬語階層 seed (v0.1 + v0.3) |
+| `data/silence.jsonl` + `_v04_additions.jsonl` | 70 | 沈黙判断 seed (v0.1 + v0.4) |
+| `data/compassion_v05.jsonl` | 15 | 思いやり seed (v0.5) |
+| `data/local_culture_v05.jsonl` | 10 | 地方文化 seed (v0.5) |
+| `data/nuance_v05.jsonl` | 10 | ニュアンス seed (v0.5) |
+| `data/generation_gap_v04.jsonl` | 10 | 世代差 seed (v0.4) |
+| `data/workplace_v04.jsonl` | 10 | 職場 seed (v0.4) |
+| `data/yamato_legal.jsonl` + `_v02.jsonl` + `_v02_additions.jsonl` | 60 | 法律 Q&A (Yamato 軸) |
+| `data/4axes_v02_extended.jsonl` | 35 | 7 軸 × 5 問 |
+| `data/ethics_v01.jsonl` | 43 | 倫理単軸 |
+| **8 文化軸 total (bench_v06_full)** | **692** | |
+| **Grand total (Yamato + 4axes + ethics 含む)** | **830** | |
 
 License: **CC BY 4.0** (data) / **MIT** (scripts)
 
