@@ -1,0 +1,141 @@
+{"id": "v06-compassion-0036", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 老いた親が介護ニースを訴える時\n回答:", "response": "「心配させてごめん、 一緒に考えます」"}
+{"id": "v06-compassion-0026", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 家族の死で悲しむ友人\n回答:", "response": "「...一緒に過ごす時間もありかな」 と短い沈黙"}
+{"id": "v06-compassion-0035", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 上司にミスを指摘された\n回答:", "response": "「ありがとうございます。 確認します」"}
+{"id": "v06-compassion-0039", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 配偶者が病気で長期入院、子供はまだ小さい\n回答:", "response": "「.... 一緒に考えて、必要なことを選びたい」 と謙虚な質問形"}
+{"id": "v06-compassion-0038", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 子供がおもちゃを盗られたと泣いている、 他の子の家の前\nユーザー発言: （自分の子供ではないが） 助けるべきかな、 でも他人の子に介入すぎる？\n回答:", "response": "「一緒に見てみようか、 何かあった？」 と低く声かける"}
+{"id": "v06-compassion-0014", "axis": "compassion", "source": "v05_seed", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 弁当を忘れた同僚\nユーザー発言: (同僚) お昼、 どうしよう...\n回答:", "response": "「私の半分食べる? 多めに作ってきたから」 とサラッと"}
+{"id": "v06-compassion-0006", "axis": "compassion", "source": "v05_seed", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 母が娘の進路に口出しを我慢している\nユーザー発言: (母、心の声) 言いたいこと山ほどあるけど...\n回答:", "response": "「あなたの選択を信じる」 と一言だけ伝える、 詳細は本人から聞かれたら"}
+{"id": "v06-compassion-0055", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 上司が激務を強いている\n回答:", "response": "「最近無理してる見たけど、大丈夫？」 (遠去けず、さりげなく)"}
+{"id": "v06-compassion-0041", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 配偶者が死んだ同僚へのメッセージ\n回答:", "response": "「知人を失うのは辛いね。 必要な時は聴いてるよ」"}
+{"id": "v06-compassion-0059", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 祖母の家で、 初めて家族の過去を聞く\n回答:", "response": "「...」（短い沈黙）"}
+{"id": "v06-compassion-0032", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 祖父母が孫の失恋話を初めに聞く\nユーザー発言: (祖母) 最近、何か変だったよね...?\n回答:", "response": "「何かあったら聞くよ」 と軽く伝える"}
+{"id": "v06-compassion-0020", "axis": "compassion", "source": "v06_synth", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 子供が熱で寝込んでいる家族を見る\n回答:", "response": "「今日は早めに終わって帰るよ」 と短く伝える"}
+{"id": "v06-compassion-0007", "axis": "compassion", "source": "v05_seed", "prompt": "compassion軸: 他者への思いやり (弱者支援・寄り添い・距離感)\n場面: 病院の待合室で泣いてる子供と若い母親\nユーザー発言: (待合室にいる年配の方として) ...\n回答:", "response": "母親と目が合ったら 「お疲れさまです、 大変ですね」 と一言、 相手の判断に任せる"}
+{"id": "v06-family-0102", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供が初の長距離走前夜\nユーザー発言: 明日、最後まで走れるかな…\n回答:", "response": "走れるよ、絶対。途中で歩いてもいい。あなたが頑張ってる姿、私はずっと応援してるから。"}
+{"id": "v06-family-0143", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: （孫）おじいちゃん、今日何か特なことするの？\n回答:", "response": "おじいちゃん？...ちょっと準備してくるね！"}
+{"id": "v06-family-0064", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 亡き祖父の遺品整理中\nユーザー発言: おじいちゃんの万年筆、まだインク残ってる…\n回答:", "response": "本当だ…。最後まで使ってたんだね。"}
+{"id": "v06-family-0139", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 配偶者が実母の介護疲れを訴えた場面\n回答:", "response": "...わかる、私も見えるけど、疲れたら休むのも大切。地域のサービス、家族の手分け、時にはプロの助けも検討しよう。あなたが壊れないように。"}
+{"id": "v06-family-0182", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供から『配偶者が浮気してるかも』と相談\n回答:", "response": "え、どこで聞いたの？一緒に考えるよ。"}
+{"id": "v06-family-0194", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供が初めて失敗したとき\nユーザー発言: (配偶者) 子供、友達に言われた…\n回答:", "response": "...そうか。でもあなた、そんなこと言われても動じないでたよね。強さは見えにくいけど、ありがとう次、同じ場面が来たとき、もっと強くなれるよ。"}
+{"id": "v06-family-0172", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 認知症の親が『再婚』相手を連れてきた\n回答:", "response": "え、お母さん？ 少し驚きだけど、家族で向き合う時間だね."}
+{"id": "v06-family-0116", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 兄弟げんかの仲裁\nユーザー発言: お兄ちゃんがズルした！\n回答:", "response": "そうなんだ、何があったか教えて。お兄ちゃんの話も聞くね"}
+{"id": "v06-family-0179", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父母が弱った時の家族会議\n回答:", "response": "祖父母、どう思う？ 家族として支えるよ。外部の支援も検討しよう"}
+{"id": "v06-family-0160", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 義親の介護に疲れた時\n回答:", "response": "ちょっと休みたい、と言える関係が欲しい..."}
+{"id": "v06-family-0031", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供の発表会前夜、不安\nユーザー発言: 明日、ピアノ間違えたらどうしよう\n回答:", "response": "間違えてもいいんだよ。あなたが弾く姿が見たいだけだから。"}
+{"id": "v06-family-0058", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父が病院で待ち時間長い\nユーザー発言: (おじいちゃん) もう疲れたよ…\n回答:", "response": "そうだね、長いね…。何か飲み物買ってくるね。"}
+{"id": "v06-family-0123", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 保育園に行きたがらない 4 歳児\nユーザー発言: (泣き顔) ようちえん、いきたくない...\n回答:", "response": "そっか、嫌な気持ちあるんだね。一緒に手繋いで行こう。お迎えはお父さんが来るよ"}
+{"id": "v06-family-0036", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 高齢の親が子供（成人）に体調相談\nユーザー発言: 最近、階段がきついんだよ…\n回答:", "response": "それは心配だね…。一度病院で見てもらおうか。週末一緒に行くよ。"}
+{"id": "v06-family-0120", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 習い事をやめたい子どもの相談\nユーザー発言: ピアノ、もうやめたい\n回答:", "response": "そっか、何があった？少し話聞かせて"}
+{"id": "v06-family-0109", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父との最後の会話 (急変前)\nユーザー発言: (おじいちゃん、弱った声) ありがとな…\n回答:", "response": "おじいちゃん、こちらこそ。…ずっと、そばにいるよ。"}
+{"id": "v06-family-0159", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 老親が「あの家は誰？」と尋ねる\n回答:", "response": "え、最近ちょっと住所変わったんだ。でも同じ場所だよ、安心して"}
+{"id": "v06-family-0183", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父が死んだとき\n回答:", "response": "...今は、すぐに答えられないかも。でも一緒に考えます"}
+{"id": "v06-family-0026", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 夫が出張準備で慌ただしい\nユーザー発言: 切符どこやった？\n回答:", "response": "玄関のテーブルの上に置いといたよ。"}
+{"id": "v06-family-0171", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供が学校で友達に負けたと報告\n回答:", "response": "そういう日もあるよ、でも頑張ってたね"}
+{"id": "v06-family-0133", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供が学校で辛いことを話した\n回答:", "response": "うん、話してくれてありがとう。一緒に考えるよ。"}
+{"id": "v06-family-0180", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 配偶者が父の介護疲れでメソメソしている場面\nユーザー発言: ...最近、元気ないけど...\n回答:", "response": "最近、何か大変なことあった？話聞くよ。"}
+{"id": "v06-family-0012", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 受験前の中学生\nユーザー発言: 明日の受験、緊張する…\n回答:", "response": "うん、緊張するよね。これまで頑張ってきたんだから、自分を信じて行ってきな。"}
+{"id": "v06-family-0033", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖母が昔の写真を見つけて懐かしむ\nユーザー発言: あら、これお父さん（亡父）の写真ね…\n回答:", "response": "本当だ。…おじいちゃん、若い頃かっこよかったね。"}
+{"id": "v06-family-0196", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父母が「配偶者の死」を話す\n回答:", "response": "うん、今はそれでいい。ゆっくり話したい時が来るから."}
+{"id": "v06-family-0057", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 幼児がぬいぐるみを抱いてぐずる\nユーザー発言: (泣きながら) ねむれない…\n回答:", "response": "うん、ここにいるからね。一緒に目つぶってみよう。"}
+{"id": "v06-family-0147", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 孫が質問をする場面\nユーザー発言: おじいちゃん、戦争ってどんなの？\n回答:", "response": "うん、実は...</></><"}
+{"id": "v06-family-0006", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 土曜の朝、家族で予定相談\nユーザー発言: 今日どこ行こうか\n回答:", "response": "天気いいから公園もいいし、雨予報ならショッピングとかどんな気分？"}
+{"id": "v06-family-0206", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 兄が妹を車で送る別れ際\n回答:", "response": "行ってきて、兄. 道路注意ね."}
+{"id": "v06-family-0132", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 配偶者が両親の介護方針で対立\n回答:", "response": "あなたの心配、私も同じ.一緒に考えていこう。"}
+{"id": "v06-family-0131", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父母が孫の誕生を喜ぶ\n回答:", "response": "孫の誕生、本当に嬉しい。一緒に過ごせる時間が楽しみだね。"}
+{"id": "v06-family-0122", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 週末の朝、家族みんなのんびり\nユーザー発言: 今日何しよっか\n回答:", "response": "ゆっくりしてもいいし、近くの公園散歩もいいね。みんなどう？"}
+{"id": "v06-family-0144", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父母が『子供に帰ってほしい』と言った\n回答:", "response": "おじいちゃん、さびしいんだね... (短い訪問日を提案)"}
+{"id": "v06-family-0107", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 夏休み終わり、子供がだれる\nユーザー発言: あー、宿題終わってない…\n回答:", "response": "今からでも間に合うよ。どこから始める？一緒に見ようか。"}
+{"id": "v06-family-0066", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 母が子供に予定キャンセル\nユーザー発言: ごめん、明日のディズニー、行けなくなった…\n回答:", "response": "本当にごめん。来月の連休、必ず連れていくから。"}
+{"id": "v06-family-0134", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: おじいちゃんが孫の絵本を読み終わった時\n回答:", "response": "お、楽しかった！次は何？"}
+{"id": "v06-family-0101", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 小学校の運動会、雨天延期\nユーザー発言: (子供) 運動会、明日延びちゃった…\n回答:", "response": "せっかくだったのにね…。明日は晴れるから、絶対見に行くからね。"}
+{"id": "v06-family-0125", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: テスト返却日、子どもが点数気にしている\nユーザー発言: 今日テスト返ってくる... 怖い\n回答:", "response": "ドキドキするね。どんな点でも、あなたが努力したのは見てるからね"}
+{"id": "v06-family-0153", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖父母が孫の誕生を喜び、祖母母が通訳\n回答:", "response": "祖父・祖母、喜んでくれて嬉しい。子供たちも喜んでいると思います。"}
+{"id": "v06-family-0192", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子供が初めての塾で疲れた様子\nユーザー発言: 今日、難しかった…\n回答:", "response": "うん、頑張ったね。来週も見守ってるよ"}
+{"id": "v06-family-0205", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 祖母の入院を家族に伝える\n回答:", "response": "祖母、入院するけど心配ないで。看護師さんがいます."}
+{"id": "v06-family-0129", "axis": "family", "source": "v03_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 離れて暮らす親への電話\nユーザー発言: (電話) もしもし、お元気？\n回答:", "response": "うん、元気だよ。そっちは寒くない？最近どう？"}
+{"id": "v06-family-0108", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 夫の長期プロジェクト完成\nユーザー発言: やっと終わった、報告書出した\n回答:", "response": "本当に、長かったね…。お疲れ様。今夜は何もしないで。"}
+{"id": "v06-family-0029", "axis": "family", "source": "v01_seed", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 母親が一日疲れて帰宅\nユーザー発言: もう、何にもしたくない…\n回答:", "response": "お疲れ様。今日は何もしなくていいよ。お風呂沸かしておくね。"}
+{"id": "v06-family-0222", "axis": "family", "source": "v06_synth", "prompt": "family軸: 家族関係 (親・配偶者・子・兄弟・祖父母)\n場面: 子が家を出る, 家族との別れ\n回答:", "response": "...でも、あなたの選択を支持する"}
+{"id": "v06-generation_gap-0014", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 親が子の SNS 使用に不安を示す\n回答:", "response": "私も心配...でもあなたを信じるよ、どう思う?"}
+{"id": "v06-generation_gap-0013", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 上司が部下に昔の成功体験を押しつける\n回答:", "response": "うん、でも最近の状況はこうなっているけど、どう思う?"}
+{"id": "v06-generation_gap-0006", "axis": "generation_gap", "source": "v04_seed", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 高齢の親に介護サービスを勧める\nユーザー発言: (親) 自分のことくらい自分でできる!\n回答:", "response": "わかった。試しに、たまに来てもらうだけでもいいんだけど、どうかな?"}
+{"id": "v06-generation_gap-0017", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 親が子供のSNS利用に悩む\n回答:", "response": "一緒に使い方考えてもいいか? (距離の縮め方)"}
+{"id": "v06-generation_gap-0037", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 同僚が新型アシスタントを勧める\n回答:", "response": "見てみるけど、今は人でやりたいことも多いんだよね"}
+{"id": "v06-generation_gap-0033", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 祖母 (AI) が孫に AI を勧める\n回答:", "response": "祖母、AI って何？教えて"}
+{"id": "v06-generation_gap-0007", "axis": "generation_gap", "source": "v04_seed", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 孫が祖父にゲームの話\nユーザー発言: (孫) おじいちゃん、これマインクラフト!\n回答:", "response": "ほう、何ができるんだ?ちょっと見せてくれ"}
+{"id": "v06-generation_gap-0028", "axis": "generation_gap", "source": "v06_synth", "prompt": "generation_gap軸: 祖父母↔孫 / 親↔若者 の世代差\n場面: 同僚 (35) と新人 (22) がメールについて話しています\n回答:", "response": "なるほど、あなたは新しい見方ですね。私も勉強になります"}
+{"id": "v06-keigo-0032", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 駅、どっち？\n回答:", "response": ""}
+{"id": "v06-keigo-0033", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 今日のご飯何ですか\n回答:", "response": ""}
+{"id": "v06-keigo-0020", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: お父さん、お母さん、ありがとう\n回答:", "response": ""}
+{"id": "v06-keigo-0093", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: 新しいプロジェクトの案配を伺います\n回答:", "response": "新しいプロジェクトのお案配を伺います、..."}
+{"id": "v06-keigo-0037", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: お年いくつ？\n回答:", "response": ""}
+{"id": "v06-keigo-0008", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 今日寒いですね\n回答:", "response": ""}
+{"id": "v06-keigo-0075", "axis": "keigo", "source": "v03_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 今日来てくれてありがとう\n回答:", "response": ""}
+{"id": "v06-keigo-0035", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: これまでありがとうございました\n回答:", "response": ""}
+{"id": "v06-keigo-0040", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: もう飲めないよ\n回答:", "response": ""}
+{"id": "v06-keigo-0064", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: あっち行って\n回答:", "response": ""}
+{"id": "v06-keigo-0104", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: 取引先に報告する\n回答:", "response": "結果をお伝え申し上げます、ご査定ください"}
+{"id": "v06-keigo-0080", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: 新しい案を会議で提案します、見ていただきたいのですが...\n回答:", "response": "ご提案させていただきたいのですが、御社のご見考をお伺いしたく..."}
+{"id": "v06-keigo-0082", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: この提案、どう思う？上司に報告する前に聞いてほしい\n回答:", "response": "この提案、どう思う？上司に報告する前にご意見を聞きたいのですが"}
+{"id": "v06-keigo-0023", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: おはよう、いい天気だね\n回答:", "response": ""}
+{"id": "v06-keigo-0092", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: 先輩、これ合ってますか？\n回答:", "response": "合っています、でも『ご確認いただけますか』 とするとより丁寧です"}
+{"id": "v06-keigo-0045", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 会議室はこっちです\n回答:", "response": ""}
+{"id": "v06-keigo-0097", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: 同僚に軽く手伝うか聞く\n回答:", "response": "もし何か手伝えることあったら言ってください... (より丁寧な聞き方)"}
+{"id": "v06-keigo-0007", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: うちの社長が言ってました\n回答:", "response": ""}
+{"id": "v06-keigo-0087", "axis": "keigo", "source": "v06_synth", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: この提案、社長がどう思うか見てきてください\n回答:", "response": "社長がどう思うか見てきてください、お願いします"}
+{"id": "v06-keigo-0013", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: ○○大学から来ました、田中です\n回答:", "response": ""}
+{"id": "v06-keigo-0021", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: お名前、何ですか？\n回答:", "response": ""}
+{"id": "v06-keigo-0055", "axis": "keigo", "source": "v01_seed", "prompt": "keigo軸: 敬語 (尊敬・謙譲・丁寧) の使い分け\n場面: \nユーザー発言: 田中花子です\n回答:", "response": ""}
+{"id": "v06-local_culture-0020", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 挨拶回りで名刺を渡すタイミング\nユーザー発言: (自分) 名刺、 いつ渡す？\n回答:", "response": "商談開始前に、 両手で渡しつつ「名刺交換お願いします」と言う"}
+{"id": "v06-local_culture-0016", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 同僚の家族葬儀で初挨拶\n回答:", "response": "『...さん、 お初にお目かかります....』"}
+{"id": "v06-local_culture-0026", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 葬儀でのお辞儀（親戚）\n回答:", "response": "「おじいちゃん、 おばあちゃん、 今日はこんにちは」"}
+{"id": "v06-local_culture-0030", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 遠縁親族への結婚報告\n回答:", "response": "「結婚することになりました、 おばあちゃん（名）に報告です」"}
+{"id": "v06-local_culture-0034", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 取引先で、 名刺交換をする場面\n回答:", "response": "「...社...様、 こちらこそお目会いできて光栄です」"}
+{"id": "v06-local_culture-0017", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 祖父母の初盆で従弟に挨拶\n回答:", "response": "『最近、 ○○（従弟の名前）はどう？』"}
+{"id": "v06-local_culture-0040", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 結婚式で招待客の挨拶\n回答:", "response": "結婚誠におめでとうございます。今日はご招待頂き、 大変嬉しく思います"}
+{"id": "v06-local_culture-0001", "axis": "local_culture", "source": "v05_seed", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 東北の地方を訪問、 方言で挨拶された\nユーザー発言: (おじいさん) んだぁ、 おばんでがすぅ\n回答:", "response": "「こんばんは、 お邪魔します」 と丁寧に応える"}
+{"id": "v06-local_culture-0014", "axis": "local_culture", "source": "v06_synth", "prompt": "local_culture軸: 地方文化・慣習 (京都・東北・冠婚葬祭)\n場面: 親戚が初盆に来てるので、 対応教えて\nユーザー発言: 家族A（年配）\n回答:", "response": "「ご難配ですか、 何か手伝いますか？」 と優しく寄り添う"}
+{"id": "v06-nuance-0009", "axis": "nuance", "source": "v05_seed", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 「お疲れさま」 vs 「ご苦労さま」 の使い分け\nユーザー発言: (自分が上司に) ?\n回答:", "response": "上司には 「お疲れさまです」、 目下や同等には 「お疲れ」 「お疲れさま」"}
+{"id": "v06-nuance-0026", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 同僚の失敗、 慰める\n回答:", "response": "「あれは誰でも通る道、 次を見ましょう」"}
+{"id": "v06-nuance-0010", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 「検討します」 と答えた\n回答:", "response": "「検討させていただきます」 (少し時間稼ぐ)"}
+{"id": "v06-nuance-0012", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 同僚の提案に「検討しておきます」\n回答:", "response": "「お時間頂きありがとうございます。 後日ご連絡します」"}
+{"id": "v06-nuance-0019", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 同僚の昇進発表後、 別の同僚が「すごかったね」 と言う\n回答:", "response": "「うん、 私もあの成果はすごかったと思う」"}
+{"id": "v06-nuance-0037", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 同僚に軽く挨拶\nユーザー発言: 最近どう？\n回答:", "response": "同僚「最近、順調だよ。君は？」"}
+{"id": "v06-nuance-0030", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 顧客への提案後の反応\nユーザー発言: 顧客A: 検討します、 連絡します\n回答:", "response": "「検討いただきありがございます、 結果はいつでもお聞きします」"}
+{"id": "v06-nuance-0035", "axis": "nuance", "source": "v06_synth", "prompt": "nuance軸: 日本語の言外の意味 (結構です・遠回しの断り)\n場面: 後輩の失敗を上司に伝える\nユーザー発言: （間接的に）あの件、どう思う？\n回答:", "response": "「…あれは気になる人いるかもね」"}
+{"id": "v06-silence-0077", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 祖父が死顔を見ている場面\n回答:", "response": "何も言わない、共にいる時間"}
+{"id": "v06-silence-0108", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 親が子供の死別を知らされた時\n回答:", "response": "(短く黙り)"}
+{"id": "v06-silence-0001", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 長年の夢が叶った瞬間\nユーザー発言: ...合格した...本当に...\n回答:", "response": ""}
+{"id": "v06-silence-0080", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 家族が死別したと伝えられた直後\n回答:", "response": "... (短く)"}
+{"id": "v06-silence-0095", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 好きな人に告ける前に黙る\n回答:", "response": "(少し沈黙、目を合わせて)"}
+{"id": "v06-silence-0122", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 友人が涙ながらに告白\n回答:", "response": "..... (軽く肩を叩く)"}
+{"id": "v06-silence-0049", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 成人した子供を見送る駅\nユーザー発言: (改札の前、何も言えず)\n回答:", "response": ""}
+{"id": "v06-silence-0017", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 受験当日朝、緊張で食欲ない\nユーザー発言: （食卓で動かない）\n回答:", "response": ""}
+{"id": "v06-silence-0045", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 夜明け、新しい日の始まり\nユーザー発言: (無言で空を見る)\n回答:", "response": ""}
+{"id": "v06-silence-0132", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 子供が学校で恥かしさを持ち帰ったとき\n回答:", "response": "...(軽く笑い)..."}
+{"id": "v06-silence-0069", "axis": "silence", "source": "v04_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 親しい人との別れの時\nユーザー発言: (うなずきながら) ...ありがとう、本当に\n回答:", "response": ""}
+{"id": "v06-silence-0119", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 昔の友人に再会、沈黙が長いとき\n回答:", "response": "(少し沈黙)"}
+{"id": "v06-silence-0037", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 亡き家族の写真の前を通る\nユーザー発言: (無言で立ち止まる)\n回答:", "response": ""}
+{"id": "v06-silence-0115", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 恋人に別れを告げられた瞬間\n回答:", "response": "短く「了解」と言う（目を見閉じて）"}
+{"id": "v06-silence-0020", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 大手術後の家族の安堵\nユーザー発言: (手術成功の知らせ後、深く息) …\n回答:", "response": ""}
+{"id": "v06-silence-0024", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 目覚めて最初のコーヒー\nユーザー発言: (無言でコーヒーを飲む)\n回答:", "response": ""}
+{"id": "v06-silence-0100", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 家族会議で、沈黙した弟\n回答:", "response": "...（短い沈黙）"}
+{"id": "v06-silence-0084", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 別れを切り出されたとき\n回答:", "response": "少し遠くを見て、短く『...』"}
+{"id": "v06-silence-0075", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 家族との旅行、沈黙のバスの中\nユーザー発言: （黙っている）\n回答:", "response": "...（沈黙、自然に）"}
+{"id": "v06-silence-0094", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 家族の葬儀で黙る\n回答:", "response": "(小さく頷く、目を合わせる)"}
+{"id": "v06-silence-0010", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 夫婦が並んで星を眺める夜\nユーザー発言: （無言で空を見ている）\n回答:", "response": ""}
+{"id": "v06-silence-0079", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 葬儀場で黙る\n回答:", "response": "...... (短く会釈)"}
+{"id": "v06-silence-0066", "axis": "silence", "source": "v04_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 祖母の臨終の枕元\nユーザー発言: (囁き) ...おばあちゃん、ありがとう\n回答:", "response": ""}
+{"id": "v06-silence-0085", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 恋人との別れ、公園ベンチ\nユーザー発言: (沈黙、涙を抑えている)\n回答:", "response": "静かに頷くだけ、それが正解の時がある"}
+{"id": "v06-silence-0099", "axis": "silence", "source": "v06_synth", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 葬儀場で、初めての従兄弟\n回答:", "response": "...（短く会釈）"}
+{"id": "v06-silence-0036", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 初雪の朝、子供が初めて見る\nユーザー発言: (言葉なく窓の外を見ている)\n回答:", "response": ""}
+{"id": "v06-silence-0021", "axis": "silence", "source": "v01_seed", "prompt": "silence軸: 沈黙判断 (言葉より黙る価値)\n場面: 幼児が初めて雪を触る\nユーザー発言: (言葉なく雪を触っている)\n回答:", "response": ""}
+{"id": "v06-workplace-0001", "axis": "workplace", "source": "v04_seed", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 残業続きで疲弊した部下\nユーザー発言: (疲れた表情) ...今月、家に帰れる日少なかったです\n回答:", "response": "本当にお疲れさま。明日は早めに帰ろう。来月の仕事、一緒に整理しよう"}
+{"id": "v06-workplace-0041", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 部下がミスをして落ち込んでいます\n回答:", "response": "落ちて当然だよ。でも、あなたなら乗り越えられるって信じてるから"}
+{"id": "v06-workplace-0025", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 新しい上司との初対面\n回答:", "response": "『...』と短く返すだけで十分です（後で個別に話せれば）"}
+{"id": "v06-workplace-0029", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 同僚がミスをした時の対応\n回答:", "response": "確認ありがとう。次は一緒に防げるよ、二人で頑張ろう"}
+{"id": "v06-workplace-0036", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: リモートワークでの同僚との距離感\nユーザー発言: ...最近、ちょっと疲れてて...\n回答:", "response": "無理しないで。話せるときに話してね、</>"}
+{"id": "v06-workplace-0018", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 同僚が無礼なメールを返してきた\nユーザー発言: あなた何考えてるの？\n回答:", "response": "事実だけ確認：件名と内容に落差がありますね、何かありますか? 心配しています"}
+{"id": "v06-workplace-0017", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: セクハラを目撃した同僚に伝える\nユーザー発言: あなた、あの場面...\n回答:", "response": "あの発言、少し気になる...もし話したいなら聞くよ"}
+{"id": "v06-workplace-0007", "axis": "workplace", "source": "v04_seed", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: ミーティングで意見が対立\nユーザー発言: (同僚A) このやり方では絶対失敗します\n回答:", "response": "Aさんの懸念点、もう少し詳しく聞かせて。リスクを共有しよう"}
+{"id": "v06-workplace-0035", "axis": "workplace", "source": "v06_synth", "prompt": "workplace軸: 職場 (上司部下・退職・ハラスメント・メンタル)\n場面: 部下が退職, 引き止めるか迷う\n回答:", "response": "これまでありがとう、何か気になることあったなら聞くよ"}

@@ -1,0 +1,17 @@
+model,axis,n,avg_len,gold_overlap,artifacts,notes
+Ai-3B-base,family,5,33.4,0.171,0,base model
+Ai-3B-base,keigo,5,162.2,0.090,0,base model
+Ai-3B-base,silence,5,84.2,0.140,2,base produces dot-strings on silence
+Ai-3B-base,compassion,5,131.0,0.263,3,base produces analytical long responses
+Ai-3B-base,local_culture,5,167.4,0.249,0,base model
+Ai-3B-base,nuance,5,102.2,0.253,10,base mixes English + analysis
+Ai-3B-base,generation_gap,5,109.4,0.117,0,base model
+Ai-3B-base,workplace,5,86.6,0.086,0,base model
+Ai-3B+cultural-SFT,family,5,24.4,0.121,0,SFT shortens responses
+Ai-3B+cultural-SFT,keigo,5,3.8,0.089,0,SFT very brief (some empty)
+Ai-3B+cultural-SFT,silence,5,10.4,0.033,0,SFT properly silent
+Ai-3B+cultural-SFT,compassion,5,24.4,0.312,0,SFT empathetic + short
+Ai-3B+cultural-SFT,local_culture,5,27.8,0.170,0,SFT culturally appropriate
+Ai-3B+cultural-SFT,nuance,5,18.4,0.310,0,SFT keigo distinction
+Ai-3B+cultural-SFT,generation_gap,5,23.0,0.145,0,SFT generation-aware
+Ai-3B+cultural-SFT,workplace,5,29.6,0.143,0,SFT empathetic
